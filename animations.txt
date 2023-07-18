@@ -1,0 +1,21 @@
+//keyframes and animations
+/* if you want any animations you need to name it 
+animation-name:
+animation-duration
+animation-iteration-count
+animation-fill-mode:(forward,alternate)
+animation-ttiming-funtion ease in ease out eas in out
+animation-delay
+animation-direction
+animation:animation-name
+@keyframes 
+
+
+
+Transtions
+Transtions-property:bgcolor
+Transtions-duration
+Transtions ease in ease out ease in out
+Transtions delay
+
+
